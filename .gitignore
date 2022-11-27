@@ -1,5 +1,11 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# custom
+Session.vim
+.editorconfig
+*keypair.json
+notes
+
 # dependencies
 /node_modules
 /.pnp
