@@ -117,3 +117,24 @@
 .logo img {
   filter: invert(1);
 }
+
+/* thirdweb-dex styles */
+.swapContainer {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.maxWidth {
+  width: 100%;
+}
+
+.flexRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
